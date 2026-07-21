@@ -1,4 +1,4 @@
-# TABLE_OF_CONTENTS.md（V0.2）
+# TABLE_OF_CONTENTS.md（V1.0）
 
 > 这不是最终目录。这是写作地图。
 > 每写完一章，回头看它——顺序对吗？缺章节吗？某一章可以删吗？
